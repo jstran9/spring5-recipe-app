@@ -15,4 +15,4 @@ I have forked this repository to stay synchronized with John Thompson's changes 
 	- Starting at step 3, step 6.
 - https://help.github.com/articles/syncing-a-fork/
 
-- Update Number two.. (june of 2018 testing).
+- Update Number two!! (june of 2018 testing).
